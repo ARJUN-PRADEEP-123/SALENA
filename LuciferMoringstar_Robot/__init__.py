@@ -28,17 +28,8 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Selena
+➥ Name :  [Pallavi](@pallavi_arjun)
 
-➥ Full Name :  Selena Gomez
+➥ Lover :  [Arjun](@Arjunbots)
 
-➥ Developer :  Arjun Pradeep
-    
-➥ Creator : [Arjun Pradeep](https://t.me/Arjunbots)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Join Channel : [Click Me](https://t.me/squid_game_full_eps)
 """
